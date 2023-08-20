@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsonAss">
+    <output-path>$PROJECT_DIR$/out/artifacts/jsonAss</output-path>
+    <root id="archive" name="jsonAss.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Java-EE-Assignments" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.annotation" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Java-EE-Assignments/web/Web" />
+    </root>
+  </artifact>
+</component>
